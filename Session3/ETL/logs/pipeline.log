@@ -1,0 +1,8 @@
+2025-12-23 20:47:07,254 - INFO - Conexión a la base de datos establecida correctamente.
+2025-12-23 20:47:07,255 - INFO - Conexión a la base de datos establecida correctamente.
+2025-12-23 20:47:07,297 - INFO - Archivo data/Awards_movie.csv leído exitosamente.
+2025-12-23 20:47:07,300 - INFO - Archivo data/users.csv leído exitosamente.
+2025-12-23 20:47:07,355 - INFO - Datos cargados exitosamente en la tabla dimMovie.
+2025-12-23 20:47:07,366 - INFO - Datos cargados exitosamente en la tabla dimUser.
+2025-12-23 20:47:07,389 - INFO - Datos cargados exitosamente en la tabla FactWatchs.
+2025-12-23 20:47:07,390 - INFO - Pipeline de datos ejecutado exitosamente.
